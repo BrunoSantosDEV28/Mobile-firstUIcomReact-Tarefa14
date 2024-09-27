@@ -1,0 +1,13 @@
+.forumPage {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
+
+.replies {
+  margin-top: 20px;
+}

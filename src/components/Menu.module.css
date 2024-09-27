@@ -1,0 +1,24 @@
+.menu {
+  background: #f0f0f0;
+  padding: 10px;
+}
+
+.hamburger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.open {
+  display: block;
+}
+
+.closed {
+  display: none;
+}
